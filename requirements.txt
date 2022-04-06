@@ -1,0 +1,6 @@
+flask
+flask-cors
+networkx
+requests
+beautifulsoup4
+lxml
