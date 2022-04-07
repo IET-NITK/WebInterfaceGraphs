@@ -11,14 +11,9 @@ This graph contains nodes as html elements of web page and edges between child a
 git clone https://github.com/IET-NITK/WebInterfaceGraphs
 cd WebInterfaceGraphs/
 pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
 python app.py
 ```
-
+Running on localhost:5000
 
 ## Tools Used
 
