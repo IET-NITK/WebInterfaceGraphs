@@ -46,10 +46,12 @@ html {
     
     }
     input[type=radio] + label:hover {
-        border: 1px solid red;
+        border: 1px solid rgb(104, 4, 4);
     }
     input[type=radio]:checked + label {
-        border: 1px solid rgb(65, 0, 0);
+        border: 1px solid rgb(104, 4, 4);
+        background-color:rgb(150, 123, 123);
+        opacity:0.8;
     }
     
     #special-radio, #button-div {
